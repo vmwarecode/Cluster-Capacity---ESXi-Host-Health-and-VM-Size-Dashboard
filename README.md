@@ -1,1 +1,0 @@
-# Cluster-Capacity---ESXi-Host-Health-and-VM-Size-Dashboard

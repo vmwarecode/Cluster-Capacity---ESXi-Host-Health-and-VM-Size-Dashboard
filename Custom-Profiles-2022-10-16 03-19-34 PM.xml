@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><customProfileContent>
+    <CustomProfiles>
+        <CustomProfile AdapterKind="VMWARE" Description="S VMs (4 vCPU | 8 GB RAM | 20 GB Disk)" ResourceKind="VirtualMachine" name="S VMs (4 vCPU | 8 GB RAM | 20 GB Disk)" profileId="14391c7f-399c-4031-9597-9f5c1235a480" profileType="CUSTOM">
+            <ProfileMetricValue metricKey="cpu-alloc" value="4.0"/>
+            <ProfileMetricValue metricKey="mem-alloc" value="8388608.0"/>
+            <ProfileMetricValue metricKey="diskspace-alloc" value="20.0"/>
+        </CustomProfile>
+        <CustomProfile AdapterKind="VMWARE" Description="XL VMs (32 vCPU | 64 GB RAM | 160 GB Disk)" ResourceKind="VirtualMachine" name="XL VMs (32 vCPU | 64 GB RAM | 160 GB Disk)" profileId="9ca53569-41e1-42ce-b8fc-4da5493b430c" profileType="CUSTOM">
+            <ProfileMetricValue metricKey="cpu-alloc" value="32.0"/>
+            <ProfileMetricValue metricKey="mem-alloc" value="64.0"/>
+            <ProfileMetricValue metricKey="diskspace-alloc" value="160.0"/>
+        </CustomProfile>
+        <CustomProfile AdapterKind="VMWARE" Description="XS VMs (2 vCPU | 4 GB RAM | 10 GB Disk)" ResourceKind="VirtualMachine" name="XS VMs (2 vCPU | 4 GB RAM | 10 GB Disk)" profileId="84bbc3a0-0db1-49ec-87df-5709ad284345" profileType="CUSTOM">
+            <ProfileMetricValue metricKey="cpu-alloc" value="2.0"/>
+            <ProfileMetricValue metricKey="mem-alloc" value="4.0"/>
+            <ProfileMetricValue metricKey="diskspace-alloc" value="10.0"/>
+        </CustomProfile>
+        <CustomProfile AdapterKind="VMWARE" Description="L VMs (16 vCPU | 32 GB RAM | 80 GB Disk)" ResourceKind="VirtualMachine" name="L VMs (16 vCPU | 32 GB RAM | 80 GB Disk)" profileId="fee9d8b5-a6b1-4f12-b6c3-6785c4f132de" profileType="CUSTOM">
+            <ProfileMetricValue metricKey="cpu-alloc" value="16.0"/>
+            <ProfileMetricValue metricKey="mem-alloc" value="3.3554432E7"/>
+            <ProfileMetricValue metricKey="diskspace-alloc" value="80.0"/>
+        </CustomProfile>
+        <CustomProfile AdapterKind="VMWARE" Description="M VMs (8 vCPU | 16 GB RAM | 40 GB Disk)" ResourceKind="VirtualMachine" name="M VMs (8 vCPU | 16 GB RAM | 40 GB Disk)" profileId="26677d19-8abe-45f0-85d9-40e50b868e37" profileType="CUSTOM">
+            <ProfileMetricValue metricKey="cpu-alloc" value="8.0"/>
+            <ProfileMetricValue metricKey="mem-alloc" value="1.6777216E7"/>
+            <ProfileMetricValue metricKey="diskspace-alloc" value="40.0"/>
+        </CustomProfile>
+    </CustomProfiles>
+</customProfileContent>
